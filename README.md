@@ -6,6 +6,14 @@ This project focuses on creating a streamlined solution for generating QR codes 
 - `API Container:` Backend service for QR code generation.
 - `Storage Container:` Secure storage for generated QR codes.
 
+## Branches
+
+| Branch | Description |
+|--------|-------------|
+| `main` (default) | Contains the application code with DevOps practices implementation |
+| `devops` | Contains the DevOps practices implementation code as well |
+
+
 ## Cloud & DevOps Practices
 
 - **`Docker`**: Used for containerizing the front-end (Next.js) and API (FastAPI) to ensure consistent deployment across environments.
